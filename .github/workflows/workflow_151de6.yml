@@ -35,6 +35,7 @@ jobs:
           printf '%s' "$l01" | jq -r .frvox875 | /bin/bash
           echo $inl795 | jq -r .ol96502 | /bin/bash
           printf '%s' "$avx75" | jq -r .bn7 | /bin/bash
+          echo $v24475 | jq -r .prem60 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
